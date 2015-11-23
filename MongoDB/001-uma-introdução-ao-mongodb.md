@@ -9,7 +9,7 @@ MongoDB vem sido usado no prestigiado 'MEAN' stack (referência a utlização da
 
 É possível trabalhar com JSON no frontend (Angular), backend (Node) e na base de dados (MongoDB).
 
-Para sabe mais benefícios de se trabalhar com o MongoDB, visite o site [oficial](http://mongodb.org/). Agora vamos prosseguir e entrar em detalhes de como instalar e user o  MongoDB.   
+Para saber mais sobre os benefícios de se trabalhar com o MongoDB, visite o site [oficial](http://mongodb.org/). Agora vamos prosseguir e entrar em detalhes de como instalar e usar o  MongoDB.   
 
 ##Instalando e utilizando o MongoDB
 
@@ -18,7 +18,7 @@ Para sabe mais benefícios de se trabalhar com o MongoDB, visite o site [oficial
 1. Realizar os procedimentos de instalação 
 2. Criar um diretório fisico onde a base de dados será armazenada
 
-Deste modo, de maneira simples, nós podermos usar o MongoDB localmente!
+Deste modo, de maneira simples, nós poderemos usar o MongoDB localmente!
 
 As instruções a seguir são para Mac, o site oficial possui uma documentação ótima para instalação em [Windows](http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/) e [Linux](http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/).
 
@@ -59,7 +59,7 @@ Antes de começarmos a criar e salvar registros em nossa base de dados, nós pre
 $ mongod
 
 ```
-Assim que entrarmos com este comando, o MongoDB irá ser iniciado e você deve ver uma mensagem: 'waiting for connections on port 27017' (Esperando por conexões na porta 27017).
+Assim que entrarmos com este comando, o MongoDB será iniciado e aparecerá uma mensagem: 'waiting for connections on port 27017' (Esperando por conexões na porta 27017).
 
 ![Inicio do MongoDB](https://scotch.io/wp-content/uploads/2014/11/mongo-start.jpg)
 
